@@ -77,7 +77,7 @@ namespace Project1 {
 			// label2
 			// 
 			this->label2->AutoSize = true;
-			this->label2->Location = System::Drawing::Point(55, 139);
+			this->label2->Location = System::Drawing::Point(55, 172);
 			this->label2->Name = L"label2";
 			this->label2->Size = System::Drawing::Size(16, 20);
 			this->label2->TabIndex = 1;
@@ -86,7 +86,7 @@ namespace Project1 {
 			// label3
 			// 
 			this->label3->AutoSize = true;
-			this->label3->Location = System::Drawing::Point(32, 177);
+			this->label3->Location = System::Drawing::Point(32, 210);
 			this->label3->Name = L"label3";
 			this->label3->Size = System::Drawing::Size(103, 20);
 			this->label3->TabIndex = 2;
@@ -94,7 +94,7 @@ namespace Project1 {
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(143, 58);
+			this->button1->Location = System::Drawing::Point(152, 107);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(117, 45);
 			this->button1->TabIndex = 3;
@@ -104,21 +104,21 @@ namespace Project1 {
 			// 
 			// textBox1
 			// 
-			this->textBox1->Location = System::Drawing::Point(296, 64);
+			this->textBox1->Location = System::Drawing::Point(207, 64);
 			this->textBox1->Name = L"textBox1";
 			this->textBox1->Size = System::Drawing::Size(197, 26);
 			this->textBox1->TabIndex = 4;
 			// 
 			// textBox2
 			// 
-			this->textBox2->Location = System::Drawing::Point(296, 130);
+			this->textBox2->Location = System::Drawing::Point(207, 163);
 			this->textBox2->Name = L"textBox2";
 			this->textBox2->Size = System::Drawing::Size(197, 26);
 			this->textBox2->TabIndex = 5;
 			// 
 			// textBox3
 			// 
-			this->textBox3->Location = System::Drawing::Point(296, 162);
+			this->textBox3->Location = System::Drawing::Point(207, 205);
 			this->textBox3->Name = L"textBox3";
 			this->textBox3->Size = System::Drawing::Size(197, 26);
 			this->textBox3->TabIndex = 6;
@@ -127,7 +127,7 @@ namespace Project1 {
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(9, 20);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(505, 330);
+			this->ClientSize = System::Drawing::Size(448, 321);
 			this->Controls->Add(this->textBox3);
 			this->Controls->Add(this->textBox2);
 			this->Controls->Add(this->textBox1);
